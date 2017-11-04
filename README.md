@@ -1,4 +1,5 @@
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/Furtif/POGOLib.png?columns=all)](https://waffle.io/Furtif/POGOLib?utm_source=badge)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Furtif/POGOLib.png?columns=all)](https://waffle.io/Furtif/POGOLib?utm_source=badge)
 POGOLib [![Build status](https://ci.appveyor.com/api/projects/status/6vktt4ad4v5wkiqq/branch/core?svg=true)](https://ci.appveyor.com/project/RocketBot/pogolib/branch/core) [![NuGet](https://img.shields.io/nuget/v/POGOLib.Core.svg?maxAge=60)](https://www.nuget.org/packages/POGOLib.Core) [![Waffle.io - Columns and their card count](https://badge.waffle.io/Furtif/POGOLib.svg?columns=all)](https://waffle.io/Furtif/POGOLib)
 ===================
 
